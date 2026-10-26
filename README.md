@@ -1,10 +1,10 @@
-## Sistema de Gestão - ONG Turma do Bem 🦷
+## Sistema de Gestão - ONG Turma do Bem 
 
 Este é um sistema de gerenciamento via linha de comando (CLI) desenvolvido em **Python**. O projeto foi criado para organizar o fluxo de trabalho da ONG **Turma do Bem**, permitindo o cadastro de pacientes, dentistas voluntários e o registro detalhado de atendimentos odontológicos.
 
 
 
-## 📋 Funcionalidades
+##  Funcionalidades
 
 O sistema é dividido em módulos para facilitar a navegação:
 
@@ -19,7 +19,7 @@ O sistema é dividido em módulos para facilitar a navegação:
 
 ---
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### Pré-requisitos
 * Ter o **Python 3.x** instalado.
@@ -40,7 +40,7 @@ O sistema é dividido em módulos para facilitar a navegação:
 
 ---
 
-## 🛠️ Tecnologias e Conceitos Utilizados
+## Tecnologias e Conceitos Utilizados
 
 O código demonstra o uso de conceitos fundamentais de programação:
 * **Dicionários e Listas:** Para armazenamento e organização dos dados em memória.
@@ -49,7 +49,7 @@ O código demonstra o uso de conceitos fundamentais de programação:
 
 ---
 
-## 📖 Estrutura do Menu Principal
+##  Estrutura do Menu Principal
 
 | Opção | Descrição |
 | :--- | :--- |
@@ -59,9 +59,9 @@ O código demonstra o uso de conceitos fundamentais de programação:
 
 ---
 
-## 🤝 Contribuição
+##  Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request* com melhorias, como a implementação de salvamento em arquivos (JSON ou Banco de Dados).
 
 ---
-**Desenvolvido para fins educacionais e de gestão social.** 🌟
+**Desenvolvido para fins educacionais e de gestão social.** 
